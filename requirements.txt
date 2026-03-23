@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+jupyter
+ipykernel
+
+# para executar basta rodar: 'pip install -r requirements.txt'
